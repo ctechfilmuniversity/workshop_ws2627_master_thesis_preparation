@@ -815,7 +815,7 @@ In pairs come up with a short storyline or an explanation for the following clip
     * Type of work
     * Status, costs, setup
     * You could also state a negative
-* As sentence, one sentence per post-it
+* One item per post-it
 * 15 minutes
 
 
